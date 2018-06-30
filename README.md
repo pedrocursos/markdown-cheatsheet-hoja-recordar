@@ -180,10 +180,10 @@ Un enlace basado en una URL tiene una parte escrita y otra el enlace. La parte e
 
 | :pencil2: Código |
 | --- |
-| `[Caqui (wikipedia)](https://es.wikipedia.org/wiki/Caqui)` |
+| `[Caqui](https://es.wikipedia.org/wiki/Caqui)` |
 
 :computer: *Resultado*\
-[Caqui (wikipedia)](https://es.wikipedia.org/wiki/Caqui)
+[Caqui](https://es.wikipedia.org/wiki/Caqui)
 
 ### Imágenes
 Para embeber una imagen hay que poner un signo de exclamación `!` antes de los corchetes y los paréntesis usados para un enlace.
